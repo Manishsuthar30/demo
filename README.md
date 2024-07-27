@@ -1,3 +1,3 @@
 # demo
 for learning git
-by-apna college
+by-apna college (Sharadha)
